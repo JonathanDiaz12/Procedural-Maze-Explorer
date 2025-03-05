@@ -8,7 +8,6 @@ int Columns = 5;
 int Random;
 char Player = 'x';
 
-};
 
 int main()
 {
